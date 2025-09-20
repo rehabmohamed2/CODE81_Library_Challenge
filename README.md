@@ -18,6 +18,18 @@ A comprehensive Spring Boot REST API for managing library operations with role-b
 - **Comprehensive Database Schema** with proper relationships
 - **Sample Data** for testing and demonstration
 
+## 🧪 API Testing
+
+Ready to test the API? Import our comprehensive Postman collection to get started immediately:
+
+**[📥 Download Postman Collection](https://github.com/rehabmohamed2/CODE81_Library_Challenge/blob/main/Library_Management_API.postman_collection.json)**
+
+The collection includes:
+- Pre-configured requests for all endpoints
+- Authentication examples
+- Sample request bodies
+- Environment variables setup
+  
 ## 🏗️ Architecture & Design Choices
 
 ### Technology Stack
