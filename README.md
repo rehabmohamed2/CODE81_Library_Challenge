@@ -29,6 +29,10 @@ The collection includes:
 - Authentication examples
 - Sample request bodies
 - Environment variables setup
+
+## Entity Relationship Diagram
+Our library management system uses a well-structured relational database design:
+**[📊 View Interactive ERD](https://github.com/rehabmohamed2/CODE81_Library_Challenge/blob/main/ERD_diagram.drawio.xml)** *(Open with Draw.io)*
   
 ## 🏗️ Architecture & Design Choices
 
