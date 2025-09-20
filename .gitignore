@@ -1,0 +1,50 @@
+# Build artifacts
+target/
+*.jar
+*.war
+*.ear
+*.class
+
+# IDE files
+.idea/
+.vscode/
+.eclipse/
+.project
+.classpath
+.settings/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.bak
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# H2 Database files
+*.db
+*.mv.db
+*.trace.db
+
+# Application specific
+application-local.yml
+application-dev.yml
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
